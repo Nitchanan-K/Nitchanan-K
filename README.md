@@ -10,8 +10,6 @@
 
 - 2023 Goal = become a Junior Software Developer
  <br />
- <br />
- 
 ---
 
 ### Languages and Tools:
