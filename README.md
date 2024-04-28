@@ -9,9 +9,8 @@
  
 - 🔭 I’m working on Python project especially on data analysis and cryptocurrency tarding 
 
-- 🌱 I’m currently learning - Html Css JavaScript Node Js and React.
+- 🌱 I’m currently learning - GO and Vue3.
 
-- 2023 Goal = become a Junior Software Developer
  <br />
  
 ---
