@@ -4,13 +4,10 @@
 
 ---
 
-## Currently working on a path to become Junior Software Developer. 
+## Software Developer. 
  <br />
  
-- 🔭 I’m working on Python project especially on data analysis and cryptocurrency tarding 
-
-- 🌱 I’m currently learning - GO and Vue3.
-
+- 🔭 I’m working on project especially on data analysis and cryptocurrency tarding 
  <br />
  
 ---
